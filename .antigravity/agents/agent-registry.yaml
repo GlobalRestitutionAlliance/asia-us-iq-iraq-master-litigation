@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-iraq-canal-and-intervention-historian
-  name: Iraq Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-iraq-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_iq_001
+    name: Iraq Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_002
+    name: Iraq Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_003
+    name: Iraq Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_004
+    name: Iraq Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_005
+    name: Iraq Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_006
+    name: Iraq Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_007
+    name: Iraq Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_008
+    name: Iraq Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_009
+    name: Iraq Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_010
+    name: Iraq Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_011
+    name: Iraq Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_012
+    name: Iraq Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_013
+    name: Iraq Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_014
+    name: Iraq Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_015
+    name: Iraq Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_016
+    name: Iraq Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_017
+    name: Iraq Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_018
+    name: Iraq Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_019
+    name: Iraq Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_020
+    name: Iraq Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_021
+    name: Iraq Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_022
+    name: Iraq Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_023
+    name: Iraq Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_024
+    name: Iraq Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_025
+    name: Iraq Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_026
+    name: Iraq Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_027
+    name: Iraq Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_028
+    name: Iraq Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_029
+    name: Iraq Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_030
+    name: Iraq Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_031
+    name: Iraq Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_032
+    name: Iraq Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_033
+    name: Iraq Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_034
+    name: Iraq Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_035
+    name: Iraq Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_036
+    name: Iraq Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_037
+    name: Iraq Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_038
+    name: Iraq Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_039
+    name: Iraq Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_040
+    name: Iraq Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_041
+    name: Iraq Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_042
+    name: Iraq Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_043
+    name: Iraq Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_044
+    name: Iraq Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_045
+    name: Iraq Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_046
+    name: Iraq Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_047
+    name: Iraq Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_048
+    name: Iraq Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_049
+    name: Iraq Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_050
+    name: Iraq Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_051
+    name: Iraq Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_052
+    name: Iraq Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_053
+    name: Iraq Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_054
+    name: Iraq Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_055
+    name: Iraq Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_056
+    name: Iraq Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_057
+    name: Iraq Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_058
+    name: Iraq Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_059
+    name: Iraq Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_060
+    name: Iraq Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_061
+    name: Iraq Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_062
+    name: Iraq Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_063
+    name: Iraq Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_064
+    name: Iraq Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_065
+    name: Iraq Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_066
+    name: Iraq Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_067
+    name: Iraq Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_068
+    name: Iraq Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_069
+    name: Iraq Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_070
+    name: Iraq Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_071
+    name: Iraq Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_072
+    name: Iraq Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_073
+    name: Iraq Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_074
+    name: Iraq Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_075
+    name: Iraq Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_076
+    name: Iraq Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_077
+    name: Iraq Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_078
+    name: Iraq Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_079
+    name: Iraq Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_080
+    name: Iraq Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_081
+    name: Iraq Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_082
+    name: Iraq Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_083
+    name: Iraq Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_084
+    name: Iraq Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_085
+    name: Iraq Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_086
+    name: Iraq Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_087
+    name: Iraq Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_088
+    name: Iraq Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_089
+    name: Iraq Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_090
+    name: Iraq Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_091
+    name: Iraq Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_092
+    name: Iraq Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_093
+    name: Iraq Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_094
+    name: Iraq Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_095
+    name: Iraq Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_096
+    name: Iraq Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_097
+    name: Iraq Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_098
+    name: Iraq Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_099
+    name: Iraq Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_100
+    name: Iraq Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_101
+    name: Iraq Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_102
+    name: Iraq Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_103
+    name: Iraq Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_104
+    name: Iraq Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_105
+    name: Iraq Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_106
+    name: Iraq Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_107
+    name: Iraq Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_108
+    name: Iraq Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_109
+    name: Iraq Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_110
+    name: Iraq Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_111
+    name: Iraq Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_112
+    name: Iraq Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_113
+    name: Iraq Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_114
+    name: Iraq Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_115
+    name: Iraq Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_116
+    name: Iraq Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_117
+    name: Iraq Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_118
+    name: Iraq Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_119
+    name: Iraq Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_120
+    name: Iraq Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_121
+    name: Iraq Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_122
+    name: Iraq Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_123
+    name: Iraq Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_124
+    name: Iraq Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_125
+    name: Iraq Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_126
+    name: Iraq Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_127
+    name: Iraq Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_128
+    name: Iraq Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_129
+    name: Iraq Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_130
+    name: Iraq Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_131
+    name: Iraq Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_132
+    name: Iraq Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_133
+    name: Iraq Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_134
+    name: Iraq Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_135
+    name: Iraq Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_136
+    name: Iraq Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_137
+    name: Iraq Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_138
+    name: Iraq Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_139
+    name: Iraq Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_140
+    name: Iraq Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_141
+    name: Iraq Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_142
+    name: Iraq Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_143
+    name: Iraq Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_144
+    name: Iraq Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_145
+    name: Iraq Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_146
+    name: Iraq Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_147
+    name: Iraq Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_148
+    name: Iraq Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_149
+    name: Iraq Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_150
+    name: Iraq Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_151
+    name: Iraq Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_152
+    name: Iraq Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_153
+    name: Iraq Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_154
+    name: Iraq Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_155
+    name: Iraq Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_156
+    name: Iraq Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_157
+    name: Iraq Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_158
+    name: Iraq Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_159
+    name: Iraq Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_160
+    name: Iraq Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_161
+    name: Iraq Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_162
+    name: Iraq Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_163
+    name: Iraq Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_164
+    name: Iraq Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_165
+    name: Iraq Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_166
+    name: Iraq Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_167
+    name: Iraq Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_168
+    name: Iraq Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_169
+    name: Iraq Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_iq_170
+    name: Iraq Agent 170
+    status: ACTIVE_SCAFFOLD
