@@ -1,0 +1,15 @@
+{
+  "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/iraq/",
+  "final_url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/iraq/",
+  "title": "Amnesty - Iraq",
+  "fetched_at": "2026-11-23T14:21:00.897105Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 97193,
+  "sha256": "6f7e6f9048facaa579ae6cdf4775f5cffdddcb1eac41e214754eb10a3e2e5ccd",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}
